@@ -21,7 +21,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="HandheldFriendly" content="true"></head>
-<title id="Timerhead">Pop helper 2.0</title>
+<title id="Timerhead">Pop helper 3.0</title>
 <link type='text/css' rel='stylesheet' href='style.css' />
 <style type="text/css">
 a {
