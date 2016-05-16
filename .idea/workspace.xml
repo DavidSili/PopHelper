@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="143dfded-6a48-4418-b2d6-973698bc6786" name="Default" comment="" />
+    <ignored path="PopHelper.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PopHelper" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1448366383321" expanded="true" signature="622:718" placeholder="UPDATE poset..." />
+                <marker date="1448366383321" expanded="true" signature="919:1046" placeholder="UPDATE imeni..." />
+                <marker date="1448366383321" expanded="true" signature="1069:1205" placeholder="UPDATE imeni..." />
+                <marker date="1448366383321" expanded="true" signature="1304:1376" placeholder="UPDATE mesta..." />
+                <marker date="1448366383321" expanded="true" signature="1505:1607" placeholder="UPDATE propo..." />
+                <marker date="1448366383321" expanded="true" signature="1674:1725" placeholder="UPDATE propo..." />
+                <marker date="1448366383321" expanded="true" signature="1792:1839" placeholder="UPDATE crkve..." />
+                <marker date="1448366383321" expanded="true" signature="2038:2066" placeholder="DELETE FROM ..." />
+                <marker date="1448366383321" expanded="true" signature="2105:2133" placeholder="DELETE FROM ..." />
+                <marker date="1448366383321" expanded="true" signature="2172:2206" placeholder="DELETE FROM ..." />
+                <marker date="1448366383321" expanded="true" signature="2245:2276" placeholder="DELETE FROM ..." />
+                <marker date="1448366383321" expanded="true" signature="2315:2342" placeholder="DELETE FROM ..." />
+                <marker date="1448366383321" expanded="true" signature="2375:2409" placeholder="SELECT osoba..posete..." />
+                <marker date="1448366383321" expanded="true" signature="2587:2662" placeholder="SELECT datum..posete..." />
+                <marker date="1448366383321" expanded="true" signature="2825:2889" placeholder="UPDATE imeni..." />
+                <marker date="1448366383321" expanded="true" signature="2909:2963" placeholder="UPDATE imeni..." />
+                <marker date="1448366383321" expanded="true" signature="3969:3986" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4075:4289" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="4104:4116" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4117:4289" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4130:4276" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4141:4262" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4304:4465" placeholder="SELECT poset..posete..." />
+                <marker date="1448366383321" expanded="false" signature="4796:4807" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="4823:4961" placeholder="SELECT imeni..imenik..." />
+                <marker date="1448366383321" expanded="false" signature="5451:5462" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="5562:5585" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="5663:5702" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="5703:5950" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="5747:5781" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="5811:5944" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="5891:5926" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6004:6021" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6115:6329" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="6144:6156" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6157:6329" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6170:6316" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6181:6302" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="6344:6549" placeholder="SELECT imeni..imenik..." />
+                <marker date="1448366383321" expanded="false" signature="6970:6981" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="7074:7085" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="7101:7144" placeholder="SELECT ID, n..mesta..." />
+                <marker date="1448366383321" expanded="true" signature="7669:7680" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="8207:8218" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="8410:8421" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="8681:8720" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="8721:8968" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="8765:8799" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="8829:8962" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="8909:8944" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9022:9039" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9136:9350" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="9165:9177" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9178:9350" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9191:9337" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9202:9323" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9365:9407" placeholder="SELECT naziv..mesta..." />
+                <marker date="1448366383321" expanded="false" signature="9718:9729" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="9854:9865" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="9906:9945" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="9946:10193" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="9990:10024" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10054:10187" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="10134:10169" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10247:10264" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10359:10573" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="10388:10400" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10401:10573" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10414:10560" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10425:10546" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="10588:10883" placeholder="SELECT propo..propovedanja..." />
+                <marker date="1448366383321" expanded="false" signature="11353:11364" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="11452:11463" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="11479:11522" placeholder="SELECT ID, c..crkve..." />
+                <marker date="1448366383321" expanded="true" signature="11909:11920" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="11936:11983" placeholder="SELECT ID, n..propovedi..." />
+                <marker date="1448366383321" expanded="true" signature="12317:12356" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12357:12604" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12401:12435" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12465:12598" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="12545:12580" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12658:12675" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12767:12981" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="12796:12808" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12809:12981" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12822:12968" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12833:12954" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="12996:13033" placeholder="SELECT naziv..propovedi..." />
+                <marker date="1448366383321" expanded="false" signature="13313:13324" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="13365:13404" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13405:13652" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="13449:13483" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13513:13646" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="13593:13628" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13706:13723" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13811:14025" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="13840:13852" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13853:14025" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13866:14012" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="13877:13998" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="14040:14073" placeholder="SELECT crkva..crkve..." />
+                <marker date="1448366383321" expanded="false" signature="14353:14364" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="14405:14444" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="14445:14692" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="14489:14523" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="14553:14686" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="14633:14668" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="14771:14886" placeholder="SELECT imeni..imenik..." />
+                <marker date="1448366383321" expanded="true" signature="15098:15130" placeholder="SELECT ime F..imenik..." />
+                <marker date="1448366383321" expanded="true" signature="15268:15468" placeholder="SELECT crkve..propovedanja..." />
+                <marker date="1448366383321" expanded="true" signature="15638:15675" placeholder="SELECT naziv..propovedi..." />
+                <marker date="1448366383321" expanded="true" signature="15815:15848" placeholder="SELECT crkva..crkve..." />
+                <marker date="1448366383321" expanded="true" signature="16070:16597" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="16300:16339" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="16340:16586" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="16383:16417" placeholder="..." />
+                <marker date="1448366383321" expanded="true" signature="16447:16580" placeholder="..." />
+                <marker date="1448366383321" expanded="false" signature="16527:16562" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unosprop.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unosprop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6189655">
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+              <folding>
+                <marker date="1463401404672" expanded="true" signature="312:377" placeholder="INSERT INTO propovedi..." />
+                <marker date="1463401404672" expanded="true" signature="1247:1318" placeholder="SELECT propo..propovedanja..." />
+                <marker date="1463401404672" expanded="true" signature="1441:1475" placeholder="SELECT COUNT..propovedi..." />
+                <marker date="1463401404672" expanded="true" signature="1684:1701" placeholder="..." />
+                <marker date="1463401404672" expanded="true" signature="1744:1858" placeholder="..." />
+                <marker date="1463401404672" expanded="true" signature="1754:1848" placeholder="..." />
+                <marker date="1463401404672" expanded="true" signature="1762:1837" placeholder="..." />
+                <marker date="1463401404672" expanded="true" signature="1868:1910" placeholder="SELECT * FRO..propovedi..." />
+                <marker date="1463401404672" expanded="true" signature="2168:2217" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unosprop.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PopHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PopHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PopHelper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="143dfded-6a48-4418-b2d6-973698bc6786" name="Default" comment="" />
+      <created>1463400517513</created>
+      <option name="number" value="Default" />
+      <updated>1463400517513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1448366383321" expanded="true" signature="622:718" placeholder="UPDATE poset..." />
+            <marker date="1448366383321" expanded="true" signature="919:1046" placeholder="UPDATE imeni..." />
+            <marker date="1448366383321" expanded="true" signature="1069:1205" placeholder="UPDATE imeni..." />
+            <marker date="1448366383321" expanded="true" signature="1304:1376" placeholder="UPDATE mesta..." />
+            <marker date="1448366383321" expanded="true" signature="1505:1607" placeholder="UPDATE propo..." />
+            <marker date="1448366383321" expanded="true" signature="1674:1725" placeholder="UPDATE propo..." />
+            <marker date="1448366383321" expanded="true" signature="1792:1839" placeholder="UPDATE crkve..." />
+            <marker date="1448366383321" expanded="true" signature="2038:2066" placeholder="DELETE FROM ..." />
+            <marker date="1448366383321" expanded="true" signature="2105:2133" placeholder="DELETE FROM ..." />
+            <marker date="1448366383321" expanded="true" signature="2172:2206" placeholder="DELETE FROM ..." />
+            <marker date="1448366383321" expanded="true" signature="2245:2276" placeholder="DELETE FROM ..." />
+            <marker date="1448366383321" expanded="true" signature="2315:2342" placeholder="DELETE FROM ..." />
+            <marker date="1448366383321" expanded="true" signature="2375:2409" placeholder="SELECT osoba..posete..." />
+            <marker date="1448366383321" expanded="true" signature="2587:2662" placeholder="SELECT datum..posete..." />
+            <marker date="1448366383321" expanded="true" signature="2825:2889" placeholder="UPDATE imeni..." />
+            <marker date="1448366383321" expanded="true" signature="2909:2963" placeholder="UPDATE imeni..." />
+            <marker date="1448366383321" expanded="true" signature="3969:3986" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4075:4289" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="4104:4116" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4117:4289" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4130:4276" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4141:4262" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4304:4465" placeholder="SELECT poset..posete..." />
+            <marker date="1448366383321" expanded="false" signature="4796:4807" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="4823:4961" placeholder="SELECT imeni..imenik..." />
+            <marker date="1448366383321" expanded="false" signature="5451:5462" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="5562:5585" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="5663:5702" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="5703:5950" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="5747:5781" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="5811:5944" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="5891:5926" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6004:6021" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6115:6329" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="6144:6156" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6157:6329" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6170:6316" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6181:6302" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="6344:6549" placeholder="SELECT imeni..imenik..." />
+            <marker date="1448366383321" expanded="false" signature="6970:6981" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="7074:7085" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="7101:7144" placeholder="SELECT ID, n..mesta..." />
+            <marker date="1448366383321" expanded="true" signature="7669:7680" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="8207:8218" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="8410:8421" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="8681:8720" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="8721:8968" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="8765:8799" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="8829:8962" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="8909:8944" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9022:9039" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9136:9350" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="9165:9177" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9178:9350" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9191:9337" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9202:9323" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9365:9407" placeholder="SELECT naziv..mesta..." />
+            <marker date="1448366383321" expanded="false" signature="9718:9729" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="9854:9865" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="9906:9945" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="9946:10193" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="9990:10024" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10054:10187" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="10134:10169" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10247:10264" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10359:10573" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="10388:10400" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10401:10573" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10414:10560" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10425:10546" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="10588:10883" placeholder="SELECT propo..propovedanja..." />
+            <marker date="1448366383321" expanded="false" signature="11353:11364" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="11452:11463" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="11479:11522" placeholder="SELECT ID, c..crkve..." />
+            <marker date="1448366383321" expanded="true" signature="11909:11920" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="11936:11983" placeholder="SELECT ID, n..propovedi..." />
+            <marker date="1448366383321" expanded="true" signature="12317:12356" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12357:12604" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12401:12435" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12465:12598" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="12545:12580" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12658:12675" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12767:12981" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="12796:12808" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12809:12981" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12822:12968" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12833:12954" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="12996:13033" placeholder="SELECT naziv..propovedi..." />
+            <marker date="1448366383321" expanded="false" signature="13313:13324" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="13365:13404" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13405:13652" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="13449:13483" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13513:13646" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="13593:13628" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13706:13723" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13811:14025" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="13840:13852" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13853:14025" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13866:14012" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="13877:13998" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="14040:14073" placeholder="SELECT crkva..crkve..." />
+            <marker date="1448366383321" expanded="false" signature="14353:14364" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="14405:14444" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="14445:14692" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="14489:14523" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="14553:14686" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="14633:14668" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="14771:14886" placeholder="SELECT imeni..imenik..." />
+            <marker date="1448366383321" expanded="true" signature="15098:15130" placeholder="SELECT ime F..imenik..." />
+            <marker date="1448366383321" expanded="true" signature="15268:15468" placeholder="SELECT crkve..propovedanja..." />
+            <marker date="1448366383321" expanded="true" signature="15638:15675" placeholder="SELECT naziv..propovedi..." />
+            <marker date="1448366383321" expanded="true" signature="15815:15848" placeholder="SELECT crkva..crkve..." />
+            <marker date="1448366383321" expanded="true" signature="16070:16597" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="16300:16339" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="16340:16586" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="16383:16417" placeholder="..." />
+            <marker date="1448366383321" expanded="true" signature="16447:16580" placeholder="..." />
+            <marker date="1448366383321" expanded="false" signature="16527:16562" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unosprop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6189655">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+          <folding>
+            <marker date="1463401404672" expanded="true" signature="312:377" placeholder="INSERT INTO propovedi..." />
+            <marker date="1463401404672" expanded="true" signature="1247:1318" placeholder="SELECT propo..propovedanja..." />
+            <marker date="1463401404672" expanded="true" signature="1441:1475" placeholder="SELECT COUNT..propovedi..." />
+            <marker date="1463401404672" expanded="true" signature="1684:1701" placeholder="..." />
+            <marker date="1463401404672" expanded="true" signature="1744:1858" placeholder="..." />
+            <marker date="1463401404672" expanded="true" signature="1754:1848" placeholder="..." />
+            <marker date="1463401404672" expanded="true" signature="1762:1837" placeholder="..." />
+            <marker date="1463401404672" expanded="true" signature="1868:1910" placeholder="SELECT * FRO..propovedi..." />
+            <marker date="1463401404672" expanded="true" signature="2168:2217" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
