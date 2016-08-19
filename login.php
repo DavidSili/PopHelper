@@ -18,7 +18,7 @@ include 'config.php';
 	$usersent=$mysqli->real_escape_string($usersent);
 	$passsent=$mysqli->real_escape_string($passsent);
 	$pass_url=$mysqli->real_escape_string($pass_url);
-	if ($usersent=='DavidSili' AND $passsent=='as14ng0LD') {
+	if ($usersent=='DavidSili' AND $passsent=='somepassword') {
 	
 		$_SESSION['loggedin'] = 1;
 		$_SESSION['user'] = $usersent;
